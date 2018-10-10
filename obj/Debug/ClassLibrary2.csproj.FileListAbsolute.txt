@@ -1,0 +1,13 @@
+c:\users\fpearson\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\users\fpearson\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\users\fpearson\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\fpearson\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\fpearson\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+c:\users\fpearson\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\fpearson\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\fpearson\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+c:\users\fpearson\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\users\fpearson\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\fpearson\Documents\Visual Studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\fpearson\Documents\Visual Studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\fpearson\Documents\Visual Studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
